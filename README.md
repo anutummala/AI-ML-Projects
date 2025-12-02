@@ -111,3 +111,15 @@ This project demonstrates **preparing numerical data for machine learning** usin
 - Combining features into a matrix
 - Normalizing features (Min-Max scaling)
 - Creating target labels
+
+# Day 12: Basic Machine Learning with scikit-learn
+
+This project demonstrates **building a simple ML model using scikit-learn**.
+
+### Concepts Covered
+- Preparing feature matrices and target labels
+- Splitting data into train/test sets
+- Feature scaling (Standardization)
+- Training a K-Nearest Neighbors (KNN) classifier
+- Evaluating model accuracy
+- Making predictions
