@@ -225,3 +225,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Easy to interpret: visualize tree to understand decisions.
 - Risk of overfitting can be controlled with parameters like max_depth.
 - Evaluated model with accuracy, confusion matrix, classification report, and visualized the decision tree.
+
+# Day 25
+- Random Forest is an ensemble of Decision Trees that improves generalization.
+- Each tree is trained on a random subset of data and features (bootstrap sampling).
+- Predictions are made using majority voting across all trees.
+- Handles overfitting better than a single Decision Tree.
+- Can evaluate and visualize feature importance to understand the model.
