@@ -1,5 +1,5 @@
 # AI-ML-Projects
-My AI/ML learning projects (Python, Pandas, TensorFlow)
+Teach yourself AI/ML 
 
 Install Python 3.x, pip, pandas, tensorflow, scikit-learn, matplotlib, seaborn, VS Code(editor)
 
@@ -218,3 +218,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - GaussianNB is used for continuous numeric features; MultinomialNB/BernoulliNB for discrete/binary features.
 - Predictions are made by computing probabilities and selecting the class with the highest probability.
 - Evaluated model with accuracy, confusion matrix, classification report, and visualized decision boundaries.
+
+# Day 24
+- Decision Trees split data recursively to predict the target class.
+- Splits are chosen based on Gini Index or Entropy (Information Gain).
+- Easy to interpret: visualize tree to understand decisions.
+- Risk of overfitting can be controlled with parameters like max_depth.
+- Evaluated model with accuracy, confusion matrix, classification report, and visualized the decision tree.
