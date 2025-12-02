@@ -69,3 +69,14 @@ This project demonstrates **reading, writing, and analyzing CSV files in Python*
 - Reading CSV files into dictionaries using `csv.DictReader`
 - Basic analysis: counting and filtering
 - Finding longest names and students by city
+
+# Day 8: NumPy Basics
+
+This project demonstrates **numerical operations using NumPy**, essential for AI/ML.
+
+### Concepts Covered
+- Creating NumPy arrays
+- Basic statistics: mean, sum, max, min, standard deviation
+- Array operations
+- Slicing arrays
+- Working with 2D arrays (matrices) and dot product
