@@ -183,3 +183,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - cross_val_score()
 - GridSearchCV for Hyperparameter Tuning
 - Output: Best Params & Best Accuracy
+
+# Day 19
+- Logistic Regression is a classification algorithm (not regression).
+- It uses the sigmoid function to convert numbers into probabilities (0–1).
+- Predictions are made by comparing probability against a threshold (0.5).
+- I trained a logistic regression classifier to detect “Minor vs Not-Minor”.
+- I visualized the sigmoid curve + decision boundary, which shows exactly how the model separates the two classes.
