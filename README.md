@@ -204,3 +204,17 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Standardization rescales data to mean=0 and std=1, preserving outliers.
 - Scaling is essential for gradient-based models (NN, Logistic Regression) and distance-based models (KNN, SVM).
 - Always fit the scaler on training data and apply the same transformation to test
+
+# Day 22
+- KNN predicts labels based on the majority class of k nearest neighbors.
+- Euclidean distance is the most common metric for finding neighbors.
+- Feature scaling (standardization) is essential; unscaled features skew distance.
+- Small k → overfitting; large k → underfitting.
+- Evaluated model with accuracy, confusion matrix, classification report, and visualized decision boundary.
+
+# Day 23
+- Naive Bayes is a probabilistic classifier based on Bayes’ theorem.
+- Assumes features are independent (“naive” assumption).
+- GaussianNB is used for continuous numeric features; MultinomialNB/BernoulliNB for discrete/binary features.
+- Predictions are made by computing probabilities and selecting the class with the highest probability.
+- Evaluated model with accuracy, confusion matrix, classification report, and visualized decision boundaries.
