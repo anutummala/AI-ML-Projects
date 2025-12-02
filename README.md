@@ -239,3 +239,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Linear SVM works for linearly separable data; kernels allow non-linear classification.
 - Scaling features is important for distance-based algorithms like SVM.
 - Evaluated with accuracy, confusion matrix, classification report, and visualized 1D decision boundary.
+
+# Day 27
+- K-Means partitions data into k clusters based on feature similarity.
+- Each cluster has a centroid; points are assigned to the nearest centroid.
+- Feature scaling is important for distance-based clustering.
+- The number of clusters k can be chosen using the Elbow Method.
+- K-Means is unsupervised, useful for customer segmentation, grouping data, and exploratory analysis.
