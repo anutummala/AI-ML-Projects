@@ -123,3 +123,38 @@ This project demonstrates **building a simple ML model using scikit-learn**.
 - Training a K-Nearest Neighbors (KNN) classifier
 - Evaluating model accuracy
 - Making predictions
+
+# Day 13: Simple Neural Network with TensorFlow/Keras
+
+This project demonstrates **building a basic neural network** for binary classification.
+
+### Concepts Covered
+- Feature scaling using StandardScaler
+- Creating a feed-forward neural network with Keras Sequential API
+- Using Dense layers and activation functions (ReLU, Sigmoid)
+- Compiling and training the model
+- Evaluating model accuracy and making predictions
+
+# Day 14: Multi-class Neural Network with TensorFlow/Keras
+
+This project demonstrates **building a neural network for multi-class classification**.
+
+### Concepts Covered
+- Feature scaling using StandardScaler
+- One-hot encoding target labels for multi-class output
+- Creating a feed-forward neural network with Keras Sequential API
+- Using Dense layers and activation functions (ReLU, Softmax)
+- Compiling and training the model with categorical cross-entropy
+- Evaluating model accuracy and making predictions
+
+# Day 15: Neural Network Predictions and Activations
+
+This project demonstrates **how to inspect neural network outputs** for multi-class classification.
+
+### Concepts Covered
+- Feature scaling
+- One-hot encoding for multi-class targets
+- Building a neural network (Sequential API)
+- Softmax output: probabilities for each class
+- Mapping probabilities to predicted class
+- Comparing predicted vs actual labels
