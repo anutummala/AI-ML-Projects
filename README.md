@@ -58,3 +58,14 @@ This project demonstrates **basic string operations in Python**.
 - Reversing a string using slicing
 - Word frequency count
 - Trimming, lowercasing, and replacing substrings
+
+# Day 7: File Handling with CSV
+
+This project demonstrates **reading, writing, and analyzing CSV files in Python**.
+
+### Concepts Covered
+- Writing CSV files using `csv.writer`
+- Reading CSV files using `csv.reader`
+- Reading CSV files into dictionaries using `csv.DictReader`
+- Basic analysis: counting and filtering
+- Finding longest names and students by city
