@@ -158,3 +158,12 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Softmax output: probabilities for each class
 - Mapping probabilities to predicted class
 - Comparing predicted vs actual labels
+
+# Day 16
+
+- Combine multiple features (numerical + categorical)
+- Encode real-world text data for ML
+- Scale data for neural networks
+- Create multi-class labels
+- Build a neural network with softmax output
+- Train & evaluate a real ML model
