@@ -232,3 +232,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Predictions are made using majority voting across all trees.
 - Handles overfitting better than a single Decision Tree.
 - Can evaluate and visualize feature importance to understand the model.
+
+# Day 26
+- SVM classifies data by finding a hyperplane that maximizes the margin between classes.
+- Support vectors are the closest points to the hyperplane, which determine the boundary.
+- Linear SVM works for linearly separable data; kernels allow non-linear classification.
+- Scaling features is important for distance-based algorithms like SVM.
+- Evaluated with accuracy, confusion matrix, classification report, and visualized 1D decision boundary.
