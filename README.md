@@ -176,3 +176,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - How to read a confusion matrix
 - How to generate a classification report
 - Real ML workflow used in industry
+
+# Day 18
+- Train/Test Split Is Not Enough
+- k-Fold Cross-Validation
+- cross_val_score()
+- GridSearchCV for Hyperparameter Tuning
+- Output: Best Params & Best Accuracy
