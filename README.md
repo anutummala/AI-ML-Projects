@@ -80,3 +80,34 @@ This project demonstrates **numerical operations using NumPy**, essential for AI
 - Array operations
 - Slicing arrays
 - Working with 2D arrays (matrices) and dot product
+
+# Day 9: Pandas Basics
+
+This project demonstrates **data analysis using Pandas**, a key library for AI/ML.
+
+### Concepts Covered
+- Reading CSV files with `pd.read_csv`
+- Accessing columns and filtering rows
+- Adding new columns with `apply()`
+- Summary statistics (`describe()`)
+- Counting occurrences with `value_counts()`
+
+# Day 10: Data Visualization with Matplotlib
+
+This project demonstrates **visualizing data using Matplotlib**.
+
+### Concepts Covered
+- Bar charts
+- Histograms
+- Pie charts
+- Using data from Pandas DataFrame
+
+# Day 11: NumPy for ML Data Preparation
+
+This project demonstrates **preparing numerical data for machine learning** using NumPy.
+
+### Concepts Covered
+- Creating NumPy arrays
+- Combining features into a matrix
+- Normalizing features (Min-Max scaling)
+- Creating target labels
