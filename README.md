@@ -246,3 +246,17 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Feature scaling is important for distance-based clustering.
 - The number of clusters k can be chosen using the Elbow Method.
 - K-Means is unsupervised, useful for customer segmentation, grouping data, and exploratory analysis.
+
+# Day 28
+- Hierarchical Clustering creates a tree-like cluster structure
+- No need to predefine k initially → can choose based on dendrogram
+- Ward linkage minimizes variance within clusters
+- Useful for exploratory data analysis and small datasets
+- Can be computationally expensive for very large datasets
+
+# Day 29
+- PCA reduces dimensionality by projecting data onto principal components.
+- Principal components capture maximum variance and are uncorrelated.
+- Standardizing features is crucial before applying PCA.
+- Explained variance ratio indicates how much information each component retains.
+- Useful for visualization, noise reduction, and improving ML model efficiency.
