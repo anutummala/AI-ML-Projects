@@ -167,3 +167,12 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Create multi-class labels
 - Build a neural network with softmax output
 - Train & evaluate a real ML model
+
+# Day 17
+- Why splitting data is essential
+- How to evaluate ML properly
+- What accuracy hides
+- What precision, recall, and F1-score truly mean
+- How to read a confusion matrix
+- How to generate a classification report
+- Real ML workflow used in industry
