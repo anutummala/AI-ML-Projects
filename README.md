@@ -197,3 +197,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Implemented gradient descent manually to update parameters.
 - Observed how loss decreases over training, proving that learning is happening.
 - Built a full training loop and plotted the loss curve.
+
+# Day 21
+- Feature scaling prevents some features from dominating others in ML models.
+- Min-Max Scaling rescales data to 0–1 range, keeping distributions intact.
+- Standardization rescales data to mean=0 and std=1, preserving outliers.
+- Scaling is essential for gradient-based models (NN, Logistic Regression) and distance-based models (KNN, SVM).
+- Always fit the scaler on training data and apply the same transformation to test
