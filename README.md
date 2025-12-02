@@ -190,3 +190,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Predictions are made by comparing probability against a threshold (0.5).
 - I trained a logistic regression classifier to detect “Minor vs Not-Minor”.
 - I visualized the sigmoid curve + decision boundary, which shows exactly how the model separates the two classes.
+
+# Day 20
+- Learned the concept of linear regression and how models learn slope (m) and intercept (b).
+- Studied mean squared error (MSE) as the loss function used for linear regression.
+- Implemented gradient descent manually to update parameters.
+- Observed how loss decreases over training, proving that learning is happening.
+- Built a full training loop and plotted the loss curve.
