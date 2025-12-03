@@ -339,3 +339,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Training is adversarial: generator improves by fooling discriminator.
 - Can generate realistic images, text, or other data.
 - Key challenges: balancing losses, avoiding mode collapse.
+
+# Day 42
+- Transfer learning leverages pre-trained models for new tasks.
+- Feature extraction uses frozen layers; fine-tuning retrains top layers.
+- Reduces training time and data requirements.
+- Common pre-trained models: VGG16, ResNet, EfficientNet.
+- Applicable in image, text, and audio tasks.
