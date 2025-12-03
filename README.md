@@ -311,3 +311,17 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - LSTMs handle long-term dependencies better than simple RNNs.
 - Sequence length and number of LSTM units affect predictions.
 - LSTMs are essential for time series, text, and sequential tasks.
+
+# Day 38
+- GRU networks are simpler alternatives to LSTMs.
+- Combines forget/input gates into a single update gate.
+- Reset gate controls influence of previous hidden state.
+- Fewer parameters → faster training.
+- GRUs are effective for sequential tasks like time series and text.
+
+# Day 39
+- Autoencoders compress data into lower-dimensional latent space.
+- Encoder maps input → latent; decoder maps latent → reconstructed output.
+- Useful for dimensionality reduction, anomaly detection, and denoising.
+- Trained unsupervised: input = output.
+- Latent space captures important features of the data.
