@@ -304,3 +304,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - SimpleRNN can predict sequences like sine waves.
 - Sequence length and hidden units affect model accuracy.
 - RNNs are foundational for time series, text, and speech tasks.
+
+# Day 37
+- LSTM networks include memory cells and gates to store information.
+- Forget, input, and output gates control information flow.
+- LSTMs handle long-term dependencies better than simple RNNs.
+- Sequence length and number of LSTM units affect predictions.
+- LSTMs are essential for time series, text, and sequential tasks.
