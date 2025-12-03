@@ -260,3 +260,40 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Standardizing features is crucial before applying PCA.
 - Explained variance ratio indicates how much information each component retains.
 - Useful for visualization, noise reduction, and improving ML model efficiency.
+
+# Day 30
+
+# Day 31
+- Feedforward Neural Networks (FNN) are the simplest type of deep learning models.
+- Sequential models stack layers one after another.
+- Dense layers are fully connected and require number of neurons and activation functions.
+- Compile the model with loss function and optimizer before training.
+- After training, the network can predict outputs for new data.
+
+# Day 32
+- Split data into training and test sets for proper evaluation.
+- Validation data is used during training to monitor overfitting.
+- history object in Keras stores loss and accuracy per epoch.
+- Plotting training curves helps visualize model performance.
+- Evaluate final model on test data and make predictions
+
+# Day 33
+- Activation functions introduce non-linearity in neural networks.
+- ReLU is commonly used in hidden layers; Sigmoid for binary output; Softmax for multi-class.
+- Optimizers update weights; Adam is fast and widely used.
+- Different activation/optimizer choices affect model convergence and accuracy.
+- Keras allows easy specification of activations and optimizers during model building.
+
+# Day 34
+- Overfitting occurs when a model performs well on training data but poorly on unseen data.
+- Dropout randomly ignores neurons during training to prevent co-adaptation.
+- L1/L2 regularization penalizes large weights to reduce model complexity.
+- Validation curves help detect overfitting visually.
+- Using dropout and regularization together improves generalization.
+
+# Day 35
+- CNNs process images using convolutional layers to capture spatial patterns.
+- Pooling layers reduce the feature map size and computation.
+- Flatten layers convert 2D features into 1D vectors for Dense layers.
+- Dense layers at the end classify features into output classes.
+- CNNs outperform feedforward networks on image tasks due to feature extraction.
