@@ -297,3 +297,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Flatten layers convert 2D features into 1D vectors for Dense layers.
 - Dense layers at the end classify features into output classes.
 - CNNs outperform feedforward networks on image tasks due to feature extraction.
+
+# Day 36
+- RNNs process sequential data by maintaining a hidden state.
+- Each RNN cell receives current input and previous hidden state.
+- SimpleRNN can predict sequences like sine waves.
+- Sequence length and hidden units affect model accuracy.
+- RNNs are foundational for time series, text, and speech tasks.
