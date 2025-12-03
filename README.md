@@ -325,3 +325,17 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Useful for dimensionality reduction, anomaly detection, and denoising.
 - Trained unsupervised: input = output.
 - Latent space captures important features of the data.
+
+# Day 40
+- VAE is a probabilistic version of autoencoder.
+- Encoder outputs mean (μ) and log-variance (log σ²).
+- Decoder reconstructs input from sampled latent vector z.
+- Loss = reconstruction + KL divergence to enforce Gaussian latent space.
+- Applications: generative modeling, anomaly detection, data augmentation.
+
+# Day 41
+- GANs consist of a generator and a discriminator network.
+- Generator creates fake samples; discriminator classifies real vs fake.
+- Training is adversarial: generator improves by fooling discriminator.
+- Can generate realistic images, text, or other data.
+- Key challenges: balancing losses, avoiding mode collapse.
