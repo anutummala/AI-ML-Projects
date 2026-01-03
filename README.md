@@ -346,3 +346,10 @@ This project demonstrates **how to inspect neural network outputs** for multi-cl
 - Reduces training time and data requirements.
 - Common pre-trained models: VGG16, ResNet, EfficientNet.
 - Applicable in image, text, and audio tasks.
+
+# Day 43
+- Day 50 introduces the basics of Natural Language Processing.
+- Learned tokenization, stopword removal, stemming, and lemmatization.
+- Built first text-processing pipeline using NLTK.
+- Implemented a rule-based sentiment classifier.
+- NLP converts text into numerical representations for ML and deep learning
